@@ -9,7 +9,7 @@ We fetched stock info using google finance API and transmitted the info to Kafka
 
 
 ## Structure
-![System structure](https://github.com/XinxinTang/Stock_Monitor_System/blob/master/Images/Screen%20Shot%202018-02-05%20at%202.22.57%20PM.png)
+![System structure](https://github.com/XinxinTang/Real-time_Stock_Monitor/blob/master/Images/Screen%20Shot%202018-02-05%20at%202.22.57%20PM.png)
 
 ## Get started
 
